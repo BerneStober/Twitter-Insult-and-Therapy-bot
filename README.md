@@ -9,6 +9,9 @@ screen name and some other information about your twitter account like a tweet i
 I advise you to have a second account to use for testing the bot and seeing how it responds.  I did this during the writing 
 and debugging of the bot.
 
+This python code was developed on Windows 10 using Visual Studio with python 3.7 and 3.8.5.  Compatiblity with earlier 
+versions of Python is not guaranteed. You will have to pip install all the import modules int he main code section to get it to work.
+
 I hopy you enjoy this and if you happen to extend the functionality, please do share it with the Github community.
 
 

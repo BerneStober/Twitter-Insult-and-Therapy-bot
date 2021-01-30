@@ -9,6 +9,6 @@ screen name and some other information about your twitter account like a tweet i
 I advise you to have a second account to use for testing the bot and seeing how it responds.  I did this during the writing 
 and debugging of the bot.
 
-I hopy you enjoy this and if you happen to extend the functionality, please do hsare it with the Github community.
+I hopy you enjoy this and if you happen to extend the functionality, please do share it with the Github community.
 
 
